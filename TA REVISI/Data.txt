@@ -1,0 +1,39 @@
+DATA VAKSINASI COVID-19
+
+Nama	: Bagas
+NIK	: 123
+Telepon	:123
+Kelamin	: Laki-Laki
+Alamat	: klaten
+Vaksin	: AstraZeneca
+
+
+Nama	: Bagas
+NIK	: 123455
+Telepon	:1
+Kelamin	: Laki-Laki
+Alamat	: as
+Vaksin	: Sinovac
+
+
+Nama	: asdd
+NIK	: 1212
+Telepon	:1121
+Kelamin	: Perempuan
+Alamat	: 1222
+Vaksin	: Moderna
+
+
+Nama	: Raden
+NIK	: 123
+Telepon	: 1476
+Kelamin	: Laki-Laki
+Alamat	: Klaten
+Vaksin	: AstraZeneca
+
+Nama	: Bagas
+NIK	: 12345
+Telepon	: 81225471
+Kelamin	: Laki-Laki
+Alamat	: Yogyakarta
+Vaksin	: Moderna
